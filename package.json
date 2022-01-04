@@ -1,0 +1,13 @@
+{
+  "name": "code-transformer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucaschang95/code-transformer.git",
+  "author": "changxingzhao",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/parser": "^7.16.7",
+    "@babel/traverse": "^7.16.7",
+    "@babel/types": "^7.16.7"
+  }
+}
